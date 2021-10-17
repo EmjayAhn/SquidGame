@@ -1,7 +1,7 @@
 # 오징어 게임에 오신 여러분들을 환영합니다
 ---
-<center>![Square](./square.jpg)</center>
----
+![Square](./square.jpg)
+----
 
 ## 참가자
 - NO.001. 광준(오일남) aka VincentGeranium
