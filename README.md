@@ -1,13 +1,13 @@
 # 오징어 게임에 오신 여러분들을 환영합니다
 ---
-<center>![Square](./square.jpg)</center>
----
+![Square](./square.jpg)
+----
 
 ## 참가자
-- NO.001. 광준(오일남) aka VincentGeranium
-- NO.199. 흥배(알리압둘) aka hb0619
-- NO.218. 유진(쌍문동) aka jyujin39
-- NO.456. 민재(성기훈) aka EmjayAhn
+- NO.001. 광준(오일남) aka [VincentGeranium](https://github.com/VincentGeranium)
+- NO.199. 흥배(알리압둘) aka [hb0619](https://github.com/HEUNG-BAE-LEE)
+- NO.218. 유진(쌍문동) aka [jyujin39](https://github.com/jyujin39)
+- NO.456. 민재(성기훈) aka [EmjayAhn](https://github.com/emjayahn)
 
 ## RULES
 1. 모든 참가자들은 주 4회 1시간 이상의 공부내용을 요약하여, 본 repository의
