@@ -1,6 +1,6 @@
 # 오징어 게임에 오신 여러분들을 환영합니다
 ---
-<p align="center">![Square](./square.jpg)</p>
+<center>![Square](./square.jpg)</center>
 ---
 
 ## 참가자
