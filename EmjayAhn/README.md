@@ -12,3 +12,8 @@
 	- Zoom Meeting
 	- Ice Breaking
 	- Study 계획수립, 진행방향, 프로젝트 논의 등
+
+### 2021.10.19 (화)
+1. David Silver Reignforcement 강의 시청 및 정리
+	- RL 정의
+	- RL 특징
