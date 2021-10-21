@@ -22,3 +22,8 @@
 1. Reinforcement Learning
 	- Study David Silver Lecture1.
 
+### 2021.10.21 (목)
+1. Reinforcement Learning
+	- Study David Silver Lecture1 Completed.
+	- Lecture1 스터디 모임자료 만들기
+
