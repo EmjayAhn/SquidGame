@@ -27,3 +27,7 @@
 	- Study David Silver Lecture1 Completed.
 	- Lecture1 스터디 모임자료 만들기
 
+### 2021.10.22 (금)
+1. Reinforcement Learning	
+	- Lecture1 스터디 모임 자료 완성
+
