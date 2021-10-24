@@ -31,3 +31,11 @@
 1. Reinforcement Learning	
 	- Lecture1 스터디 모임 자료 완성
 
+### 2021.10.24 (일)
+1. Language C++
+	- 기초문법
+	- 기초문법 적응을 위한 알고리즘 3문제
+
+2. Reinforcement Learning
+	- David Silver Lecture2 시작
+
