@@ -39,3 +39,11 @@
 2. Reinforcement Learning
 	- David Silver Lecture2 시작
 
+### 2021.10.25 (월)
+1. Reinforcement Learning
+	- David Silver Lecture2
+		- Markov Process
+		- Markov Reward Process
+2. System Engineering
+	- GPU Workstation 정리
+	- GPU 하드웨어 종류 정리
