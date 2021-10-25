@@ -1,4 +1,5 @@
-# No.456 HeungBae LEE TIL
+
+No.456 HeungBae LEE TIL
 
 ### 2021.10.18 (월)
 1. rabbitMQ 튜토리얼 공부
@@ -26,4 +27,10 @@
 
 - intent classification and detection에 사용할 데이터셋 구축 및 전처리
     - mecab shell script 및 wakati를 사용한 pipeline 라인 구축
-    - Spider를 통한 비동기 scraping 구축
+    - Spider를 통한 비동기 scraping 구축 
+
+
+### 2021.10.24 (일)
+- intent classification and detection에 사용할 데이터셋 구축 및 전처리
+    - siame Network를 이용한 few-shot learner 코드 작성 및 학습
+
