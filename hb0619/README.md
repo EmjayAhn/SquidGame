@@ -34,3 +34,7 @@ No.456 HeungBae LEE TIL
 - intent classification and detection에 사용할 데이터셋 구축 및 전처리
     - siame Network를 이용한 few-shot learner 코드 작성 및 학습
 
+
+### 2021.10.26 (화))
+- intent classification and detection에 사용할 model 설계
+    - siame Network를 이용한 few-shot learner baseline model 코드 작성
