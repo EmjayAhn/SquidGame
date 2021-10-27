@@ -47,3 +47,11 @@
 2. System Engineering
 	- GPU Workstation 정리
 	- GPU 하드웨어 종류 정리
+
+### 2021.10.26 (수)
+1. Reinforcement Learning
+	- David Silver Lecture2
+		- Markov Decision Process
+		- Optimal Policy
+		- Extension of MDP
+
