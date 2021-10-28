@@ -35,6 +35,11 @@ No.456 HeungBae LEE TIL
     - siame Network를 이용한 few-shot learner 코드 작성 및 학습
 
 
-### 2021.10.26 (화))
+### 2021.10.26 (화)
 - intent classification and detection에 사용할 model 설계
     - siame Network를 이용한 few-shot learner baseline model 코드 작성
+
+### 2021.10.26 (목)
+- 패캠 강의 및 NER의 이해를 위한 CRF 개념 정리 1일차
+
+- AI HUB Shopping AS 데이터 전처리작업
