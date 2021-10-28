@@ -8,3 +8,4 @@
 - [211024 SUN - GCD(Grand Central Dispatch)의 종류와 특성.](./contents/211024_TIL.md)
 - [211025 MON - 매개변수 기본값, 가변 매개변수와 입출력 매개변수.](./contents/211025_TIL.md)
 - [211027 WED - 반환이 없는 함수., 데이터 타입으로서의 함수., GCD 사용시 주의사항 - 1(반드시 메인 큐에서 처리 해야하는 작업), GCD 사용시 주의사항 - 2(Sync 메서드에 대한 주의 사항), 중첩함수, 클로저(Intro)](./contents/211027_TIL.md)
+- [211028 THU - OS Overview(OS의 역활, 컴퓨터 시스템의 구성, 운영체제 구분), GCD 사용시 주의사항 - 3(weak, strong 캡쳐 주의.), 클로저(기본클로저)](./contents/211028_TIL.md)
