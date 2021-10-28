@@ -48,10 +48,14 @@
 	- GPU Workstation 정리
 	- GPU 하드웨어 종류 정리
 
-### 2021.10.26 (수)
+### 2021.10.27 (수)
 1. Reinforcement Learning
 	- David Silver Lecture2
 		- Markov Decision Process
 		- Optimal Policy
 		- Extension of MDP
 
+### 2021.10.28 (목)
+1. Reinforcement Learning
+	- Lecture 2 스터디 자료 만들기
+	- 23:00 ~ RL study Zoom Meeting
