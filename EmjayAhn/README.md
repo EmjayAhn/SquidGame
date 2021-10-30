@@ -59,3 +59,8 @@
 1. Reinforcement Learning
 	- Lecture 2 스터디 자료 만들기
 	- 23:00 ~ RL study Zoom Meeting
+
+### 2021.10.30 (토)
+1. MLOps
+	- MLOps 자료정리
+	- MLOps 스터디 계획수립
