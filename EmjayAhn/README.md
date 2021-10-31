@@ -64,3 +64,7 @@
 1. MLOps
 	- MLOps 자료정리
 	- MLOps 스터디 계획수립
+
+### 2021.10.31 (일)
+1. Reinforcement Learning
+	- Lecture 2 스터디 자료 완성
