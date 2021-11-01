@@ -39,7 +39,12 @@ No.456 HeungBae LEE TIL
 - intent classification and detection에 사용할 model 설계
     - siame Network를 이용한 few-shot learner baseline model 코드 작성
 
+
 ### 2021.10.26 (목)
 - 패캠 강의 및 NER의 이해를 위한 CRF 개념 정리 1일차
 
 - AI HUB Shopping AS 데이터 전처리작업
+
+
+### 2021.10.31 (일)
+- 패캠 강의 및 NER의 이해를 위한 CRF 개념 정리 2일차
