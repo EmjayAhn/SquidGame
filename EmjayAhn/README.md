@@ -68,3 +68,8 @@
 ### 2021.10.31 (일)
 1. Reinforcement Learning
 	- Lecture 2 스터디 자료 완성
+
+### 2021.11.01 (월)
+1. ML Hardware Study
+	- GPU 가속기
+	- 서버, 인프라 스터디
