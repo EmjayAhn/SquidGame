@@ -11,3 +11,4 @@
 - [211028 THU - OS Overview(OS의 역활, 컴퓨터 시스템의 구성, 운영체제 구분), GCD 사용시 주의사항 - 3(weak, strong 캡쳐 주의.), 클로저(기본클로저)](./contents/211028_TIL.md)
 - [211029 FRI - 종료되지 않는 함수, 반환 값을 무시할 수 있는 함수, iOS의 메모리 관리 시스템](./contents/211029_TIL.md)
 - [211031 SUN - SortComparator protocol, 후행 클로저, ARC](./contents/211031_TIL.md)
+- [211101 MON - 클래스 인스턴스간의 강한 참조 순환, 클로저 표현의 간소화(문맥을 이용한 타입 유추), 컴플리션 핸들러의 존재 이유](./contents/211101_TIL.md)
