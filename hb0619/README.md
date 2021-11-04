@@ -51,3 +51,7 @@ No.456 HeungBae LEE TIL
 
 ### 2021.11.01 (월)
 - 패캠 강의 및 NER의 이해를 위한 CRF 개념 정리 3일차
+
+### 2021.11.03 (수)
+- intent classification and detection에 사용할 model 설계
+    - siame Network를 이용한 few-shot learner baseline model 모델 구조 변경코드 작성
