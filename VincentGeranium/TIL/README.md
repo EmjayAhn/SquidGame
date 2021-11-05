@@ -13,3 +13,4 @@
 - [211031 SUN - SortComparator protocol, 후행 클로저, ARC](./contents/211031_TIL.md)
 - [211101 MON - 클래스 인스턴스간의 강한 참조 순환, 클로저 표현의 간소화(문맥을 이용한 타입 유추), 컴플리션 핸들러의 존재 이유](./contents/211101_TIL.md)
 - [211103 WED - 클래스 인스턴스간의 강한 참조 순환 해결(weak), 단축 인자 이름, 암시적 반환 표현, 연산자 함수](./contents/211103_TIL.md)
+- [211105 FRI - 값 획득, 미소유 참조(Unowend References), 동기적 함수를 비동기적 함수처럼 만드는 법](./contents/211105_TIL.md)
