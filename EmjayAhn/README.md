@@ -73,3 +73,11 @@
 1. ML Hardware Study
 	- GPU 가속기
 	- 서버, 인프라 스터디
+
+### 2021.11.04 (Thursday)
+1. Tensorflow 2.0
+	- Library
+	- Basic Expression
+
+### 2021.11.05
+1. Tensorflow 2.0 (Fri)
