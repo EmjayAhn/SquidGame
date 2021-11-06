@@ -79,5 +79,14 @@
 	- Library
 	- Basic Expression
 
-### 2021.11.05
-1. Tensorflow 2.0 (Fri)
+### 2021.11.05 (Fri)
+1. Tensorflow 2.0
+
+### 2021.11.06 (Sat)
+1. 11월 계획
+	- 11월 계획과 목표 설정
+
+2. Transfer to Tensorflow 2.0!!!
+	- Tensorflow 2.0 Tutorial과 강의 (4강)
+	- Tensorflow Tutorial Jupyter Notebook 작성
+
