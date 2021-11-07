@@ -90,3 +90,7 @@
 	- Tensorflow 2.0 Tutorial과 강의 (4강)
 	- Tensorflow Tutorial Jupyter Notebook 작성
 
+### 2021.11.07 (Sun)
+1. PAP Community 준비
+	- 블로그 정비
+	- AdSense 설정
