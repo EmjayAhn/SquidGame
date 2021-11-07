@@ -59,3 +59,7 @@ No.456 HeungBae LEE TIL
 ### 2021.11.05 (금)
 - intent classification and detection에 사용할 model 고도화
     - siame Network를 이용한 few-shot learner baseline model 모델 테스트 결과 비교 및 고도화를 위한 tripletloss 구조 추가
+
+### 2021.11.07 (일)
+- few-shot metric learning 기법 
+    - few-shot의 contrastive learning 기법 추가 조사 
