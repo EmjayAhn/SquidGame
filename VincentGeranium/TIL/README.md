@@ -15,3 +15,4 @@
 - [211103 WED - 클래스 인스턴스간의 강한 참조 순환 해결(weak), 단축 인자 이름, 암시적 반환 표현, 연산자 함수](./contents/211103_TIL.md)
 - [211105 FRI - 값 획득, 미소유 참조(Unowend References), 동기적 함수를 비동기적 함수처럼 만드는 법](./contents/211105_TIL.md)
 - [211107 SUN - 입출력 매개변수에서의 메모리 접근 충돌](./contents/211107_TIL.md)
+- [211108 MON - OS Overview(운영체제구분), 디스패치그룹의개념](./contents/211108_TIL.md)
