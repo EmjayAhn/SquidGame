@@ -94,3 +94,8 @@
 1. PAP Community 준비
 	- 블로그 정비
 	- AdSense 설정
+
+### 2021.11.09 (Tue)
+1. Transfer to Tensorflow 2.0!!!
+	- Tensorflow 2.0 Tutorial 과 강의
+	- Tensorflow Tutorial Jupyter Notebook 작성
