@@ -16,4 +16,4 @@
 - [211105 FRI - 값 획득, 미소유 참조(Unowend References), 동기적 함수를 비동기적 함수처럼 만드는 법](./contents/211105_TIL.md)
 - [211107 SUN - 입출력 매개변수에서의 메모리 접근 충돌](./contents/211107_TIL.md)
 - [211108 MON - OS Overview(운영체제구분), 디스패치그룹의개념](./contents/211108_TIL.md)
-- [211110 WED - 클로저는 참조 타입.](./contents/211110_TIL.md)
+- [211110 WED - 클로저는 참조 타입, 프로퍼티와 메서드 intro, 프로퍼티 intro, 컴퓨터는 어떤 말을 사용할까.](./contents/211110_TIL.md)
