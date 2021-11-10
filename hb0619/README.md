@@ -63,3 +63,12 @@ No.456 HeungBae LEE TIL
 ### 2021.11.07 (일)
 - few-shot metric learning 기법 
     - few-shot의 contrastive learning 기법 추가 조사 
+
+### 2021.11.09 (화)
+- few-shot metric learning 기법
+    - few-shot의 tripletloss를 통한 성능 고도화
+
+### 2021.11.10 (수)
+- contrastive learning 기법
+    - contrastive learning의 전반적인 개념 review
+    - bert 기반의 few-shot에 대한 자료 조사
