@@ -99,3 +99,13 @@
 1. Transfer to Tensorflow 2.0!!!
 	- Tensorflow 2.0 Tutorial 과 강의
 	- Tensorflow Tutorial Jupyter Notebook 작성
+
+### 2021.11.11 (Thu)
+1. Reinforcement Learning Study
+	- Zoom 미팅
+	- 강의 Lecture 02 발표
+	- 다음주 계획 수립
+
+### 2021.11.13 (Sat)
+1. Transfer to Tensorflow 2.0!!!
+	- Lecture 05 ~ 06
