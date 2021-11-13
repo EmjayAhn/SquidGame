@@ -72,3 +72,9 @@ No.456 HeungBae LEE TIL
 - contrastive learning 기법
     - contrastive learning의 전반적인 개념 review
     - bert 기반의 few-shot에 대한 자료 조사
+
+### 2021.11.13 (토)
+- few-shot learner loss들을 비교하며 학습셋 재구축
+
+### 2021.11.14 (일)
+-knowledge graph를 구축하기 위한 elastic search 공부 1일차
