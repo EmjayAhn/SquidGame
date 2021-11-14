@@ -109,3 +109,7 @@
 ### 2021.11.13 (Sat)
 1. Transfer to Tensorflow 2.0!!!
 	- Lecture 05 ~ 06
+
+### 2021.11.14 (Sun)
+1. MLOPs Tutorial
+	- Week 01, 02, 03 정리
