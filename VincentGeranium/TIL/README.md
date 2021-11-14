@@ -18,3 +18,4 @@
 - [211108 MON - OS Overview(운영체제구분), 디스패치그룹의개념](./contents/211108_TIL.md)
 - [211110 WED - 클로저는 참조 타입, 프로퍼티와 메서드 intro, 프로퍼티 intro, 컴퓨터는 어떤 말을 사용할까.](./contents/211110_TIL.md)
 - [211112 FRI - 저장 프로퍼티(Stored Properties).](./contents/211112_TIL.md)
+- [211114 SUN - 디스패치 그룹의 사용(비동기 디스패치 그룹)](./contents/211114_TIL.md)
