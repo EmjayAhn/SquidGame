@@ -20,3 +20,4 @@
 - [211112 FRI - 저장 프로퍼티(Stored Properties).](./contents/211112_TIL.md)
 - [211114 SUN - 디스패치 그룹의 사용(비동기 디스패치 그룹)](./contents/211114_TIL.md)
 - [211116 TUE - 지연 저장 프로퍼티, 디스패치 워크 아이템, 탈출 클로저](./contents/211116_TIL.md)
+- [211118 THU - 연산 프로퍼티, 운영체제의 구조, 연산 프로퍼티](./contents/211118_TIL.md)
