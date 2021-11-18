@@ -113,3 +113,13 @@
 ### 2021.11.14 (Sun)
 1. MLOPs Tutorial
 	- Week 01, 02, 03 정리
+
+### 2021.11.15 (Mon)
+1. Reinforcement Learning Study
+	- Lecture 03 수강
+
+### 2021.11.17 (Wed)
+1. Reinforcement Learning Study
+	- Lecture 03 마저 수강
+	- 강화학습 첫걸음 실습 실행
+
