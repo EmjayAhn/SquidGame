@@ -78,3 +78,6 @@ No.456 HeungBae LEE TIL
 
 ### 2021.11.14 (일)
 -knowledge graph를 구축하기 위한 elastic search 공부 1일차
+
+### 2021.11.14 (수)
+-knowledge graph를 구축하기 위한 elastic search 공부 2일차
