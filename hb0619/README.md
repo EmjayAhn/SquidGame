@@ -79,5 +79,12 @@ No.456 HeungBae LEE TIL
 ### 2021.11.14 (일)
 -knowledge graph를 구축하기 위한 elastic search 공부 1일차
 
-### 2021.11.14 (수)
+### 2021.11.16 (화)
 -knowledge graph를 구축하기 위한 elastic search 공부 2일차
+
+### 2021.11.18 (목)
+- uwsgi+nginx+Django 에서의 memory leak 및 model의 multiprocessing을 위한 환경인 gunicorn을 활용한 환경 구축 공부 1일차
+
+### 2021.11.19 (금)
+- uwsgi+nginx+Django 에서의 memory leak 및 model의 multiprocessing을 위한 환경인 gunicorn을 활용한 환경 구축 공부 2일차
+- 환경 구축(실습진행)
