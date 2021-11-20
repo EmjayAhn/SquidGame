@@ -123,3 +123,9 @@
 	- Lecture 03 마저 수강
 	- 강화학습 첫걸음 실습 실행
 
+### 2021.11.20 (Sat)
+1. PAP Causal Inference Study
+	- 인과추론 스터디 개요 및 방향 (온라인 미팅)
+
+2. 사내 세미나 자료 작성
+	- Data Science & ML 주제
