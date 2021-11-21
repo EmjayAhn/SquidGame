@@ -88,3 +88,6 @@ No.456 HeungBae LEE TIL
 ### 2021.11.19 (금)
 - uwsgi+nginx+Django 에서의 memory leak 및 model의 multiprocessing을 위한 환경인 gunicorn을 활용한 환경 구축 공부 2일차
 - 환경 구축(실습진행)
+
+### 2021.11.21 (일)
+- few-shot baseline 모델 고도화 및 테스트 검증
