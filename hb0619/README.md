@@ -91,3 +91,6 @@ No.456 HeungBae LEE TIL
 
 ### 2021.11.21 (일)
 - few-shot baseline 모델 고도화 및 테스트 검증
+
+### 2021.11.23 (화)
+- 의도분류를 위한 few-shot baseline 모델설계시 학습데이터 활용 방안 검토
