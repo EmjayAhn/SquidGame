@@ -24,3 +24,4 @@
 - [211121 SUN - 타입 프로퍼티, 키 경로](./contents/211121_TIL.md)
 - [211122 MON - 인스턴스 메서드(인스턴스 메서드, self 프로퍼티, Call-as-method)](./contents/211122_TIL.md)
 - [211124 WED - Process Management-1(종류, 정의), Process Management-2(Resource의 개념, PCB), 상수 프로퍼티](./contents/211124_TIL.md)
+- [211124 FRI - Process Management-3(Process State), 기본 이니셜라이저와 멤버와이저 이니셜라이저](./contents/211126_TIL.md)
