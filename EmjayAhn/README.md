@@ -129,3 +129,9 @@
 
 2. 사내 세미나 자료 작성
 	- Data Science & ML 주제
+
+### 2021.11.28 (Sun)
+1. Transfer to Tensorflow 2.0
+	- Tensorflow 2.0, Keras tutorial 작성
+	- Pytorch 와의 비교 문서 작성
+
