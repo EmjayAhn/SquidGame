@@ -94,3 +94,12 @@ No.456 HeungBae LEE TIL
 
 ### 2021.11.23 (화)
 - 의도분류를 위한 few-shot baseline 모델설계시 학습데이터 활용 방안 검토
+
+### 2021.11.26 (금)
+- Deview2021세션 중 챗봇 및 intente detection에 관련한 세션들 보고 정리하기
+
+### 2021.11.28 (일)
+- Naver에서 제안한 UNICORN 구조를 사용하기 위한 실험 환경 설정 및 사용된 개념 파악하기
+
+### 2021.11.23 (월)
+- BERT를 가이드할 수 있는 보조적인 수단(Auxiliary Representation) 수단을 추가하여 먼저 실험 및 검증 
