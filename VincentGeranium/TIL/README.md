@@ -25,3 +25,4 @@
 - [211122 MON - 인스턴스 메서드(인스턴스 메서드, self 프로퍼티, Call-as-method)](./contents/211122_TIL.md)
 - [211124 WED - Process Management-1(종류, 정의), Process Management-2(Resource의 개념, PCB), 상수 프로퍼티](./contents/211124_TIL.md)
 - [211126 FRI - Process Management-3(Process State), 기본 이니셜라이저와 멤버와이저 이니셜라이저](./contents/211126_TIL.md)
+- [211128 SUN - Process Management-4(프로세스 관리를 위한 자료구조), 초기화 위임, UIKit 알아보기, UIViewController 알아보기.](./contents/211128_TIL.md)
