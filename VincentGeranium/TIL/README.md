@@ -26,3 +26,4 @@
 - [211124 WED - Process Management-1(종류, 정의), Process Management-2(Resource의 개념, PCB), 상수 프로퍼티](./contents/211124_TIL.md)
 - [211126 FRI - Process Management-3(Process State), 기본 이니셜라이저와 멤버와이저 이니셜라이저](./contents/211126_TIL.md)
 - [211128 SUN - Process Management-4(프로세스 관리를 위한 자료구조), 초기화 위임, UIKit 알아보기, UIViewController 알아보기.](./contents/211128_TIL.md)
+- [211130 TUE - 실패 가능한 이니셜라이져, Concurrency Problems-1(Intro)](./contents/211130_TIL.md)
