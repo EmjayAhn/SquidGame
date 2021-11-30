@@ -135,3 +135,12 @@
 	- Tensorflow 2.0, Keras tutorial 작성
 	- Pytorch 와의 비교 문서 작성
 
+2. PAP Causal Inference Study
+	- 노트북 내용 공유
+	- DoWhyML notebook 쉐어
+
+### 2021.11.29 (Mon)
+1. PAP Causal Inference Study
+	- 다음주 내용 스터디
+	DoWhyML notebook 공부
+	
