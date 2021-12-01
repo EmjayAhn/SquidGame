@@ -143,4 +143,9 @@
 1. PAP Causal Inference Study
 	- 다음주 내용 스터디
 	DoWhyML notebook 공부
+
+### 2021.12.01 (Wed)
+1. PAP Causal Inference Study
+	- Causal Inference Study Session 0, 1 공부
 	
+
