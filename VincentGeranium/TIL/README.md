@@ -29,3 +29,4 @@
 - [211130 TUE - 실패 가능한 이니셜라이져, Concurrency Problems-1(Intro)](./contents/211130_TIL.md)
 - [211201 WED - 타입 메서드, Process Management-5(Interrupt)](./contents/211201_TIL.md)
 - [211203 FRI - Concurrency Problems-2(Race Condition), Thread Management-1(스레드 개념, 메모리 관점에서 본 스레드, 스레드 구성요소), 함수를 사용한 프로퍼티 기본값 설정, 인스턴스 소멸.](./contents/211203_TIL.md)
+- [211205 SUN - Thread Management-2(싱글 스레드 프로세스와 멀티 스레드 프로세스, 스레드의 장점, 스레드 사용의 예)](./contents/211205_TIL.md)
