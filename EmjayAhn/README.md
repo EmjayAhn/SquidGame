@@ -148,4 +148,15 @@
 1. PAP Causal Inference Study
 	- Causal Inference Study Session 0, 1 공부
 	
+### 2021.12.03 (Fri)
+1. PAP Causal Inference Study
+	- Causal Inference Study Session 2, 3 강의 수강
 
+### 2021.12.05 (Sun)
+1. PAP Causal Inference Sutyd
+	- 온라인 미팅
+	- 스터디 자료 공유 및 질의응답
+
+2. Reinforcement Learning Study
+	- 온라인 미팅
+	- 다음주 스케쥴링
