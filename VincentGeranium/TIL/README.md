@@ -31,4 +31,5 @@
 - [211203 FRI - Concurrency Problems-2(Race Condition), Thread Management-1(스레드 개념, 메모리 관점에서 본 스레드, 스레드 구성요소), 함수를 사용한 프로퍼티 기본값 설정, 인스턴스 소멸.](./contents/211203_TIL.md)
 - [211205 SUN - Thread Management-2(싱글 스레드 프로세스와 멀티 스레드 프로세스, 스레드의 장점, 스레드 사용의 예)](./contents/211205_TIL.md)
 - [211206 MON - 자동 클로저, Thread Management-4(사용자 수준 스레드), Thread Management-5(커널 수준 스레드), Thread Management-6(혼합형 스레드)](./contents/211206_TIL.md)
-- [211209 THU - 알고리즘-1(음식 요리법은 알고리즘이다.), Concurrency Problems-3(DeadLocks, 교착상태), 옵셔널 체이닝](./contents/211209_TIL.md)
+- [211209 THU - 알고리즘-1(음식 요리법은 알고리즘이다.), Concurrency Problems-3(DeadLocks, 교착상태), 옵셔널 체이닝과 빠른 종료-1(옵셔널 체이닝)](./contents/211209_TIL.md)
+- [211211 SAT - Process Scheduling-1(스케쥴링(Scheduling)의 목적.),옵셔널 체이닝과 빠른 종료-2(빠른 종료)](./contents/211211_TIL.md)
