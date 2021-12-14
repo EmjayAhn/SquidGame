@@ -160,3 +160,8 @@
 2. Reinforcement Learning Study
 	- 온라인 미팅
 	- 다음주 스케쥴링
+
+### 2021.12.14 (Mon)
+1. Reinforcement Learning Study
+	- 심층강화학습 책 학습
+	
