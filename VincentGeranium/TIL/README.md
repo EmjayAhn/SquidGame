@@ -34,3 +34,4 @@
 - [211209 THU - 알고리즘-1(음식 요리법은 알고리즘이다.), Concurrency Problems-3(DeadLocks, 교착상태), 옵셔널 체이닝과 빠른 종료-1(옵셔널 체이닝)](./contents/211209_TIL.md)
 - [211211 SAT - Process Scheduling-1(스케쥴링(Scheduling)의 목적.),옵셔널 체이닝과 빠른 종료-2(빠른 종료)](./contents/211211_TIL.md)
 - [211212 SUN - Concurrency Problems-4(Priority Inversion, 우선순위 뒤바뀜.), 접근제어 Intro, 접근 제어 필요성](./contents/211212_TIL.md)
+- [211214 THU - 모듈과 소스파일, 접근수준 Intro, Process Scheduling-2(스케쥴링(Scheduling)의 기준.)](./contents/211214_TIL.md)
