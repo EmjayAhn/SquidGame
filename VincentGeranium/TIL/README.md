@@ -35,3 +35,4 @@
 - [211211 SAT - Process Scheduling-1(스케쥴링(Scheduling)의 목적.),옵셔널 체이닝과 빠른 종료-2(빠른 종료)](./contents/211211_TIL.md)
 - [211212 SUN - Concurrency Problems-4(Priority Inversion, 우선순위 뒤바뀜.), 접근제어 Intro, 접근 제어 필요성](./contents/211212_TIL.md)
 - [211214 THU - 모듈과 소스파일, 접근수준 Intro, Process Scheduling-2(스케쥴링(Scheduling)의 기준.)](./contents/211214_TIL.md)
+- [211215 WED - UINavigationController 알아보기., 공개 접근수준(public)., Thread-Safe 한 코드의 구현과 방법-1(TSan 사용법).](./contents/211215_TIL.md)
