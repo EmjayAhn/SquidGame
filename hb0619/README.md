@@ -116,3 +116,7 @@ No.456 HeungBae LEE TIL
 ### 2021.12.08 (수)
 - BERT와 GPT로 알아보는 트랜스포머 원리 및 구현 책 정리 4일차
 - transformer에 대한 자료 정리 및 colab에 정리
+
+### 2021.12.20 (월)
+- deep metric learning
+- 1) prototypical, metric based, model based tree map 정리 및 SimCSE method 적용한 Unicorn 아키텍쳐 inference code 작성
