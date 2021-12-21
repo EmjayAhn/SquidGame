@@ -38,3 +38,4 @@
 - [211215 WED - UINavigationController 알아보기., 공개 접근수준(public)., Thread-Safe 한 코드의 구현과 방법-1(TSan 사용법).](./contents/211215_TIL.md)
 - [211217 FRI - Process Scheduling-3(스케쥴링(Scheduling)의 단계.), 화면 전환 개념.](./contents/211217_TIL.md)
 - [211219 SUN - Process Scheduling-4(스케쥴링 정책(Policy))., 개방 접근수준(open)., ViewController Life Cycle.](./contents/211219_TIL.md)
+- [211221 TUE - Thread-Safe 한 코드의 구현과 방법-(Serial Queue와 Sync), 화면간 데이터 전달.](./contents/211221_TIL.md)
