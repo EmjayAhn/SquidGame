@@ -40,3 +40,4 @@
 - [211219 SUN - Process Scheduling-4(스케쥴링 정책(Policy))., 개방 접근수준(open)., ViewController Life Cycle.](./contents/211219_TIL.md)
 - [211221 TUE - Thread-Safe 한 코드의 구현과 방법-(Serial Queue와 Sync), 화면간 데이터 전달.](./contents/211221_TIL.md)
 - [211222 WED - 내부 접근수준(Internal), 파일외부비공개 접근수준(filePrivate), 비공개 접근수준(private), Protocol, 기본 스케줄링 알고리즘들-1(FCFS), UINavigationBar BackGround Color Change 관련 issue](./contents/211222_TIL.md)
+- [211225 SAT - 접근제어 구현, UIControlState(rawValue:), LED전광판(2.10~11 기능구현하기)](./contents/211225_TIL.md)
