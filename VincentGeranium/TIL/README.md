@@ -43,3 +43,4 @@
 - [211225 SAT - 접근제어 구현, UIControlState(rawValue:), LED전광판(2.10~11 기능구현하기)](./contents/211225_TIL.md)
 - [211226 SUN - 구조체, LED전광판 앱 구현](./contents/211226_TIL.md)
 - [211228 TUE - LED전광판 앱 구현, Protocol과 Delegate](./contents/211228_TIL.md)
+- [211229 WED - 잘못된 참조로 인한 Error.](./contents/211229_TIL.md)
